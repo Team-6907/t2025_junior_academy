@@ -1,0 +1,26 @@
+# Compiled Java files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Student submissions (these should be submitted separately)
+*Player.java
+!GongZeruiPlayer.java
+
+# Log files
+*.log
